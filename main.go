@@ -7,5 +7,7 @@ import (
 
 func main() {
     fmt.Fprintf(os.Stdout, "Hello world!!")
+
+	fmt.printf("Hello world!!")
 }
 
